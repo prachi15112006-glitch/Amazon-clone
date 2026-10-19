@@ -286,4 +286,10 @@ ul a{
         padding: 8px;
     }
 }
+.project-notice {
+    background-color:#fff3cd;
+    color:#222;
+    padding :12px;
+    text-align:center;
+    font-size:14px;}
     
